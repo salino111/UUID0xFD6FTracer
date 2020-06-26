@@ -1,4 +1,4 @@
-# Logging BluetoothLE Beacons withe the UUID 0xFD6F
+# Aufzeichnen von BluetoothLE Beacons mit der UUID 0xFD6F
 
 ## GPSLogger II ![AppLogo](/misc/docs/gpsl-icon.png)
 Mit der aktuellsten Version der App GPSLogger (ab v2.0.0.116) ist es möglich die empfangenen Informationen (Zeit & Ort) zu speichern. Die App die seit über 10 Jahren immer wieder weiter entwicklet wird, hat natürlich noch eine vielzahl von Funktionen mehr - aber wenn man nicht nur wissen möchte, wieviele BluetoothLE Beacons aktuell um einen herum ein ExposureNotification Signal senden, sondern diese Information in reklation zu Zeit und Ort stehen möchte, dann ist dies über diese App möglich.
