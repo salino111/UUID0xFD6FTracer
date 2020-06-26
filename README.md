@@ -1,8 +1,8 @@
-# UUID 0xFD6F Tracer ![AppLogo](/app/src/main/res/mipmap-hdpi/ic_launcher_round.png)
+# UUID 0xFD6F Detector ![AppLogo](/app/src/main/res/mipmap-hdpi/ic_launcher_round.png)
 ## English
 Main purpose of the app is to scan your current environment for active devices running an application that make use of Google's & Apple's ExposureNotification Framework.
 
-[Download Latest UUID0xFD6FTracer.apk](https://github.com/marq24/UUID0xFD6FTracer/releases/download/0.9.1.1/UUID0xFD6F_v0.9.1.1.apk)
+[Download Latest UUID0xFD6FDetector.apk directly from GitHub](/releases/download/0.9.1.1/UUID0xFD6F_v0.9.1.1.apk)
 
 ## Deutsch
 [//]: # (Ich habe eine Funktion in der Corona-Warn-App des RKI's vermisst. Ich weiß, **ich habe sie installiert & aktiviert** - aber wie sieht es denn in meinem aktuellen Umfeld aus? Haben Menschen um mich herum ebenfalls die App am Start?)
@@ -11,7 +11,7 @@ Ich habe eine Funktion in der Warn-App des RKI's vermisst. Ich weiß, **ich habe
 [//]: # (Für Android habe ich deswegen eine kleine App geschrieben -natürlich kostenlos und ohne Werbung-, mit der man angezeigt bekommt wie viele unterschiedliche Geräte um Euch herum ein Corona-Warn-App "Begegnungs-Erkennungs-Signal" senden.)
 Für Android habe ich deswegen eine kleine App geschrieben (natürlich kostenlos und ohne Werbung), mit der man angezeigt bekommt wie viele unterschiedliche Geräte um Euch herum ein "Begegnungs-Erkennungs-Signal" senden.
 
-[Download des aktuellen UUID0xFD6FTracer.apk](https://github.com/marq24/UUID0xFD6FTracer/releases/download/0.9.1.1/UUID0xFD6F_v0.9.1.1.apk)
+[Download des aktuellen UUID0xFD6FDetector.apk direkt von GitHub](/releases/download/0.9.1.1/UUID0xFD6F_v0.9.1.1.apk)
 
 ### Technisch
 Der gemeinsam von Google und Apple entwickelte Standard über den die möglichen Kontakt-Informationen ausgetauscht werden, basiert darauf, dass auf dem Mobiltelefon ein BluetoothLE Beacon mit der **UUID 0xFD6F** gestartet wird.

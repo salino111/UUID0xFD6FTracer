@@ -1,4 +1,4 @@
-package com.emacberry.uuid0xfd6ftracer;
+package com.emacberry.uuid0xfd6fdetector;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
@@ -12,7 +12,7 @@ public class BootUpReceiver extends BroadcastReceiver {
     public void onReceive(final Context context, Intent intent) {
         boolean doAutostart = Preferences.getInstance(context).getBoolean(R.string.PKEY_AUTOSTART, R.string.DVAL_AUTOSTART);
         if (doAutostart) {
-            Log.i("BOOT", "AUTOSTART UUID 0xFD6F Tracer");
+            Log.i("BOOT", "AUTOSTART UUID 0xFD6F Detector");
             Intent scannerIntent = new Intent(context, ScannerService.class);
             scannerIntent.putExtra(ScannerActivity.INTENT_EXTRA_AUTOSTART, true);
             try {

@@ -1,4 +1,4 @@
-package com.emacberry.uuid0xfd6ftracer;
+package com.emacberry.uuid0xfd6fdetector;
 
 import android.os.Build;
 import android.os.Bundle;
@@ -7,7 +7,7 @@ import android.view.WindowManager;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.emacberry.uuid0xfd6ftracer.settings.Settings01;
+import com.emacberry.uuid0xfd6fdetector.settings.Settings01;
 
 public class SettingsActivity extends AppCompatActivity {
 

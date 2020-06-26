@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name" translatable="false">UUID 0xFD6F Tracer</string>
+    <string name="app_name" translatable="false">UUID 0xFD6F Detector</string>
     <string name="tab_text_1">Active Beacons</string>
     <string name="tab_text_2" translatable="false">Tab 2</string>
 
