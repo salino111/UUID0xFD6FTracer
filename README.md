@@ -1,6 +1,8 @@
 # UUID 0xFD6F Detector ![AppLogo](/app/src/main/res/mipmap-hdpi/ic_launcher_round.png)
 ## English
-Main purpose of the app is to scan your current environment for active devices running an application that make use of Google's & Apple's ExposureNotification Framework.
+The Main purpose of the app is to scan your current environment for mobile devices running an application that make use of Google's & Apple's ExposureNotification Framework.
+
+The ExposureNotification Service will create a BluettothLE Beacon with the UUID 0xFD6F in order to allow other devices to detect your presence. As more people will start to use this great technology we all will have a benefit later. Thanks vor participating!
 
 [//]: # (This Framework ist use by some Corona App's in order to exchange information between mobile phones.)
 [//]: # (So this app will show you how many other devices are currently visible to your running Corona-App [like the Corona-Warn-App from the RKI] - So when you are at a place with some people you can judge how confident you could be concerning the possibility to be warned if anybody in this group will report to be infected later.)
